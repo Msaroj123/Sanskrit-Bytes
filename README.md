@@ -1,6 +1,6 @@
 # Sanskrit-Bytes : Capturing the Essence of Sanskrit in English
 This project
-focuses on the generation of English descriptions for Sanskrit Geeta Shlokas using
+focuses on the generation of English descriptions for Sanskrit Shlokas or text using
 retrained GPT model. We aimed to make the Ramayans deep wisdom more acces-
 sible to English readers by utilizing corresponding information from both Sanskrit
 and English texts. This approach was designed to overcome the language and cul-
